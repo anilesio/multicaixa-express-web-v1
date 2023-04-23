@@ -1,0 +1,41 @@
+.collapsible li{
+  background-color: #fff !important;
+}
+
+
+.cartao{
+padding: 2vw;
+background: rgba(236, 112, 8, 0.1);
+border-radius: 4px;
+}
+
+.hover-top{
+  transition: all 0.3s;
+}
+
+.hover-top:hover{
+  transform: scale(0.9);
+}
+
+
+.pagination li:first-child {
+  background-color: transparent;
+  margin-right: 25px;
+}
+
+.pagination li:last-child {
+  margin-left: 25px;
+  background-color: transparent;
+}
+
+.pagination li.active {
+  color: transparent !important;
+  background-color: #EC7008;
+}
+
+.pagination li {
+  background-color: #c2c2c2;
+  border-radius: 20px;
+  margin-left: 2vh;
+  margin-right: 2vh;
+}

@@ -1,0 +1,58 @@
+.sombra-botao{
+  box-shadow: #EC700898 0px 4px 3px;
+  transition: 0.2s all ease-in-out;
+}
+
+a:active, a:focus {
+  background: transparent !important;
+}
+
+button.sombra-botao:hover, a.sombra-botao:hover{
+  box-shadow: #EC700898 2px 6px 6px;
+}
+
+.center-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.form-login {
+  -webkit-box-shadow: 0 0px 50px 3px #2A7D8A24, 0 9px 46px 8px #2A7D8A1f, 0 11px 15px -7px #2A7D8A33;
+  box-shadow: 0 0px 50px 3px #2A7D8A24, 0 9px 46px 8px #2A7D8A1f, 0 11px 15px -7px #2A7D8A33;
+}
+
+.form-login-input {
+  border: 1px solid #2A7D8A !important;
+  background-color: #fff !important;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  width: 100%;
+  background-color: transparent;
+  padding: 20px !important;
+  font-size: 18px;
+  color: #2c2c2c;
+  transition: all 0.5s;
+}
+
+.form-login-input:hover {
+  background-color: #fafafa;
+}
+
+.form-login-input:focus {
+  background-color: #fafafa;
+  outline: none;
+  border: 1px solid #747272;
+}
+
+.form-login-input::placeholder {
+  color: #727272;
+}
+
+.ng-invalid.ng-touched:not(form) {
+  border: 2px dotted rgb(255, 0, 0);
+}
+

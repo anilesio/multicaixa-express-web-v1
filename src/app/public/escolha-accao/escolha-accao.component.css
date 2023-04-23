@@ -1,0 +1,19 @@
+.banner-login {
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #ec6f0896, #ec6f0819 50%), url('https://img.freepik.com/free-photo/portrait-smiley-man_23-2148666491.jpg?w=1380&t=st=1681385628~exp=1681386228~hmac=131a5122371e647e0368954b54fbb5f1c82cd9610578211523c46d979a6c0d10');
+  background-repeat: no-repeat;
+  transform: scaleX(-100%);
+  background-size: cover;
+}
+
+.banner-cadastro {
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #ec6f0896, #ec6f0819 50%), url('https://img.freepik.com/free-photo/portrait-smiley-man-having-good-time_23-2148666496.jpg?w=1380&t=st=1681385575~exp=1681386175~hmac=a2b2673f6ad8ebbc908ae34c9bf0c59a563188dea9aa180b919a13f71c6cbc72');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.col{
+  margin: 0;
+  padding: 0;
+}

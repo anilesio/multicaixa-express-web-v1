@@ -1,0 +1,6 @@
+.banner-landing {
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #ec6f0896, #ec6f0819 50%), url('https://img.freepik.com/free-photo/handsome-young-african-freelancer-working-laptop-computer-remotely_273609-9141.jpg?w=1380&t=st=1681376459~exp=1681377059~hmac=7a6658ee96e3b028b5393e347bd57e6f39a6371652627152ee7332e16a7b3a0f');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
